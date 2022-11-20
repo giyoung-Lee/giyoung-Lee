@@ -3,8 +3,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
-
-[![Tistory Badge](https://img.shields.io/badge/Notion-555263?style=flat&logoColor=white)]("https://www.notion.so/17ddd105508c475187eea3957fbbbff2)
+#
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://bit.ly/3AuHV5h)](http://bit.ly/3AuHV5h)
