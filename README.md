@@ -7,6 +7,6 @@
 [![Tistory Badge](https://img.shields.io/badge/Notion-555263?style=flat&logoColor=white)]("https://www.notion.so/17ddd105508c475187eea3957fbbbff2)
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/17ddd105508c475187eea3957fbbbff2)]([https://soo-vely-dev.tistory.com/](https://www.notion.so/17ddd105508c475187eea3957fbbbff2))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=bit.ly/3Ei6vr8)]([bit.ly/3Ei6vr8](https://www.notion.so/17ddd105508c475187eea3957fbbbff2))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:permilliyer@gmail.com)](mailto:permilliyer@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rldud112@naver.com)](mailto:rldud112@naver.com)
