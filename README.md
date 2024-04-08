@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=GiYoung%20Lee&fontSize=90)
 #
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
-[![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=rldud112)](https://github.com/rldud112/github-readme-stats)
+[![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha_Bu)](https://github.com/Ha_Bu/github-readme-stats)
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://bit.ly/3AuHV5h)](https://sheer-legume-d73.notion.site/b0257ccf5f0d436bbf051ca3bbc2c8de)
