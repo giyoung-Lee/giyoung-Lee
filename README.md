@@ -2,8 +2,8 @@
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bbbbdd&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
 [![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=giyoung-Lee)](https://github.com/giyoung-Lee/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
 
 </div>
 <br>
@@ -76,7 +76,7 @@
 <br>
 <br>
 
-<!-- <img src="https://github.com/tneserp/tneserp/blob/output/github-contribution-grid-snake.svg"/> -->
+<img src="https://github.com/tneserp/tneserp/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <br>
