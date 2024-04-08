@@ -10,15 +10,8 @@
 <br>
 
 
-# :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://bit.ly/3AuHV5h)](https://sheer-legume-d73.notion.site/b0257ccf5f0d436bbf051ca3bbc2c8de)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:permilliyer@gmail.com)](mailto:permilliyer@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rldud112@naver.com)](mailto:rldud112@naver.com)
-
-<br>
-<br>
-
 ## I'm still studying 💦💦
+<br>
 <div align="center">
   <span style="font-size: larger;"><strong>📚 Platforms & Languages 📚</strong></span>
 </div>
@@ -51,6 +44,14 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 <br>
+<br>
+<br>
+
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://bit.ly/3AuHV5h)](https://sheer-legume-d73.notion.site/b0257ccf5f0d436bbf051ca3bbc2c8de)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:permilliyer@gmail.com)](mailto:permilliyer@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rldud112@naver.com)](mailto:rldud112@naver.com)
+
 <br>
 <br>
 
