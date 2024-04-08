@@ -76,7 +76,7 @@
 <br>
 <br>
 
-<img src="https://github.com/tneserp/tneserp/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/giyoung-Lee/giyoung-Lee/blob/output/github-contribution-grid-snake.svg"/>
 
 
 <br>
