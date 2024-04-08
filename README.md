@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
@@ -59,11 +60,14 @@
   <span style="font-size: larger;"><strong>🛠 Tools 🛠</strong></span>
 </div>
 <br>
+<div align="center">
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-
-
+</div>
+<br>
+<br>
+<br>
 
 
 # :mailbox_with_mail: Contacts
