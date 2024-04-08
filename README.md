@@ -2,19 +2,8 @@
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=bbbbdd&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
-  
-  </div>
-  <div>
-    
-  [![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=giyoung-Lee)](https://github.com/giyoung-Lee/github-readme-stats)
-  
-  </div>
-
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
+[![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=giyoung-Lee)](https://github.com/giyoung-Lee/github-readme-stats)
 
 </div>
 <br>
