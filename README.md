@@ -1,7 +1,4 @@
-## Ha-Bu 🙋‍♂️
-<br>
 <div align="center">
-
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90&fontColor=ffffff)
