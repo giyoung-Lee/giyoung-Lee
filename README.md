@@ -11,5 +11,11 @@
 
 ## I'm still studying 💦💦
 
+📚 Platforms & Languages 📚
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
+
+🛠 Once I've Used 🛠
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ccccee&height=200&section=footer)
