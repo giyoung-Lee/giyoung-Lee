@@ -11,7 +11,9 @@
 
 ## I'm still studying 💦💦
 
-<div align="center"> 📚 Platforms & Languages 📚 </div>
+<div align="center">
+  <span style="font-size: larger;"><strong>📚 Platforms & Languages 📚</strong></span>
+</div>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -26,7 +28,9 @@
 <br>
 <br>
 
-<div align="center"> 🛠 Once I've Used 🛠 </div>
+<div align="center">
+  <span style="font-size: larger;"><strong>🛠 Once I've Used 🛠</strong></span>
+</div>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
