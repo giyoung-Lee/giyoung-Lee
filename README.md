@@ -1,5 +1,5 @@
 ### Ha-Bu 🙋‍♂️
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#ddddff&height=300&section=header&text=Ha-Bu's%20GitHub&fontSize=90)
 #
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rldud112)](https://solved.ac/rldud112)
 [![Giyoung Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=giyoung-Lee)](https://github.com/giyoung-Lee/github-readme-stats)
@@ -12,4 +12,4 @@
 ## I'm still studying 💦💦
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#ddddff&height=200&section=footer)
