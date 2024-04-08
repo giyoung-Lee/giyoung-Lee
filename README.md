@@ -10,3 +10,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rldud112@naver.com)](mailto:rldud112@naver.com)
 
 ## I'm still studying 💦💦
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
