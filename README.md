@@ -95,4 +95,4 @@
 <br>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbbbdd&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=bbbbdd&height=200&section=footer&text=This%20too%20shall%20pass.)
